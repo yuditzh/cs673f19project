@@ -1,5 +1,5 @@
 # Your Team Name
-Brifly introduce your team
+Briefly introduce your team
 ## Lead Role
 List all lead roles 
 ## Team members
