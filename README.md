@@ -1,4 +1,4 @@
-# CS673F19project: Your Project Title
+# BUMETCS673 Project: Your Project Title
 Briefly introduce your project 
 ## Technogloy Used 
 List all technolgy stack used
