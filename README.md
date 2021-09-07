@@ -8,3 +8,5 @@ List all major features
 Describe how to install or depoly the application
 ## Team
 List all contributors name
+
+You can include anything you like. You can also change the section structure of the document.
